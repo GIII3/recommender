@@ -1,0 +1,301 @@
+product_id,name,brand,category,price,style
+P0001,Bottega Veneta Sneakers Item 1,Bottega Veneta,Sneakers,4057.0,Contemporary
+P0002,Bottega Veneta Bags Item 2,Bottega Veneta,Bags,2870.0,Classic
+P0003,Off-White Ready-to-Wear Item 3,Off-White,Ready-to-Wear,4385.0,Avant-Garde
+P0004,Acne Studios Ready-to-Wear Item 4,Acne Studios,Ready-to-Wear,2189.0,Classic
+P0005,Loewe Accessories Item 5,Loewe,Accessories,3841.0,Minimalist
+P0006,The Row Accessories Item 6,The Row,Accessories,450.0,Contemporary
+P0007,Loewe Ready-to-Wear Item 7,Loewe,Ready-to-Wear,1628.0,Minimalist
+P0008,Ami Paris Sneakers Item 8,Ami Paris,Sneakers,470.0,Contemporary
+P0009,Ami Paris Jewellery Item 9,Ami Paris,Jewellery,4393.0,Bohemian
+P0010,Jacquemus Ready-to-Wear Item 10,Jacquemus,Ready-to-Wear,3709.0,Avant-Garde
+P0011,Off-White Shoes Item 11,Off-White,Shoes,3863.0,Contemporary
+P0012,Burberry Bags Item 12,Burberry,Bags,4232.0,Contemporary
+P0013,Burberry Jewellery Item 13,Burberry,Jewellery,548.0,Contemporary
+P0014,Jacquemus Shoes Item 14,Jacquemus,Shoes,1846.0,Classic
+P0015,Alexander McQueen Jewellery Item 15,Alexander McQueen,Jewellery,487.0,Bohemian
+P0016,Burberry Shoes Item 16,Burberry,Shoes,1091.0,Classic
+P0017,Ami Paris Bags Item 17,Ami Paris,Bags,1171.0,Avant-Garde
+P0018,Jacquemus Bags Item 18,Jacquemus,Bags,2207.0,Contemporary
+P0019,Prada Accessories Item 19,Prada,Accessories,1340.0,Bohemian
+P0020,Acne Studios Sneakers Item 20,Acne Studios,Sneakers,616.0,Bohemian
+P0021,Acne Studios Shoes Item 21,Acne Studios,Shoes,904.0,Streetwear
+P0022,The Row Accessories Item 22,The Row,Accessories,816.0,Avant-Garde
+P0023,Loewe Shoes Item 23,Loewe,Shoes,4384.0,Bohemian
+P0024,The Row Accessories Item 24,The Row,Accessories,3460.0,Contemporary
+P0025,Jacquemus Bags Item 25,Jacquemus,Bags,4361.0,Contemporary
+P0026,Maison Margiela Jewellery Item 26,Maison Margiela,Jewellery,2080.0,Bohemian
+P0027,Gucci Accessories Item 27,Gucci,Accessories,1383.0,Classic
+P0028,Loewe Shoes Item 28,Loewe,Shoes,3629.0,Avant-Garde
+P0029,Prada Shoes Item 29,Prada,Shoes,1589.0,Contemporary
+P0030,Prada Sneakers Item 30,Prada,Sneakers,1473.0,Bohemian
+P0031,The Row Bags Item 31,The Row,Bags,1184.0,Contemporary
+P0032,Balenciaga Shoes Item 32,Balenciaga,Shoes,740.0,Bohemian
+P0033,Loewe Ready-to-Wear Item 33,Loewe,Ready-to-Wear,1288.0,Avant-Garde
+P0034,Valentino Jewellery Item 34,Valentino,Jewellery,1715.0,Bohemian
+P0035,Prada Accessories Item 35,Prada,Accessories,3092.0,Streetwear
+P0036,Acne Studios Sneakers Item 36,Acne Studios,Sneakers,450.0,Bohemian
+P0037,Gucci Jewellery Item 37,Gucci,Jewellery,1089.0,Bohemian
+P0038,Acne Studios Bags Item 38,Acne Studios,Bags,3675.0,Avant-Garde
+P0039,Off-White Sneakers Item 39,Off-White,Sneakers,815.0,Bohemian
+P0040,Alexander McQueen Accessories Item 40,Alexander McQueen,Accessories,1660.0,Avant-Garde
+P0041,Maison Margiela Accessories Item 41,Maison Margiela,Accessories,3915.0,Streetwear
+P0042,Balenciaga Ready-to-Wear Item 42,Balenciaga,Ready-to-Wear,849.0,Avant-Garde
+P0043,Off-White Bags Item 43,Off-White,Bags,537.0,Contemporary
+P0044,Balenciaga Sneakers Item 44,Balenciaga,Sneakers,2273.0,Avant-Garde
+P0045,Acne Studios Sneakers Item 45,Acne Studios,Sneakers,1486.0,Streetwear
+P0046,Ami Paris Shoes Item 46,Ami Paris,Shoes,2614.0,Minimalist
+P0047,Gucci Ready-to-Wear Item 47,Gucci,Ready-to-Wear,3652.0,Bohemian
+P0048,Acne Studios Ready-to-Wear Item 48,Acne Studios,Ready-to-Wear,772.0,Avant-Garde
+P0049,Ami Paris Sneakers Item 49,Ami Paris,Sneakers,2689.0,Bohemian
+P0050,The Row Sneakers Item 50,The Row,Sneakers,2364.0,Classic
+P0051,Bottega Veneta Jewellery Item 51,Bottega Veneta,Jewellery,802.0,Contemporary
+P0052,Loewe Jewellery Item 52,Loewe,Jewellery,2876.0,Contemporary
+P0053,Acne Studios Jewellery Item 53,Acne Studios,Jewellery,1362.0,Classic
+P0054,Ami Paris Ready-to-Wear Item 54,Ami Paris,Ready-to-Wear,2287.0,Classic
+P0055,Jacquemus Shoes Item 55,Jacquemus,Shoes,535.0,Avant-Garde
+P0056,Saint Laurent Accessories Item 56,Saint Laurent,Accessories,2165.0,Classic
+P0057,Valentino Jewellery Item 57,Valentino,Jewellery,1504.0,Minimalist
+P0058,Off-White Shoes Item 58,Off-White,Shoes,3733.0,Bohemian
+P0059,Loewe Bags Item 59,Loewe,Bags,426.0,Bohemian
+P0060,Valentino Jewellery Item 60,Valentino,Jewellery,1988.0,Streetwear
+P0061,Bottega Veneta Accessories Item 61,Bottega Veneta,Accessories,2160.0,Classic
+P0062,Maison Margiela Bags Item 62,Maison Margiela,Bags,3312.0,Classic
+P0063,Maison Margiela Bags Item 63,Maison Margiela,Bags,2661.0,Minimalist
+P0064,Saint Laurent Accessories Item 64,Saint Laurent,Accessories,3062.0,Contemporary
+P0065,Valentino Jewellery Item 65,Valentino,Jewellery,3537.0,Contemporary
+P0066,Valentino Ready-to-Wear Item 66,Valentino,Ready-to-Wear,3905.0,Bohemian
+P0067,Off-White Accessories Item 67,Off-White,Accessories,1536.0,Bohemian
+P0068,Burberry Accessories Item 68,Burberry,Accessories,2504.0,Avant-Garde
+P0069,Saint Laurent Accessories Item 69,Saint Laurent,Accessories,3809.0,Minimalist
+P0070,Loewe Bags Item 70,Loewe,Bags,4454.0,Streetwear
+P0071,Bottega Veneta Shoes Item 71,Bottega Veneta,Shoes,4023.0,Streetwear
+P0072,Saint Laurent Ready-to-Wear Item 72,Saint Laurent,Ready-to-Wear,1785.0,Minimalist
+P0073,The Row Jewellery Item 73,The Row,Jewellery,1023.0,Streetwear
+P0074,Gucci Jewellery Item 74,Gucci,Jewellery,2294.0,Contemporary
+P0075,The Row Shoes Item 75,The Row,Shoes,3384.0,Streetwear
+P0076,Burberry Accessories Item 76,Burberry,Accessories,2308.0,Streetwear
+P0077,Gucci Ready-to-Wear Item 77,Gucci,Ready-to-Wear,2267.0,Minimalist
+P0078,Bottega Veneta Jewellery Item 78,Bottega Veneta,Jewellery,3801.0,Minimalist
+P0079,Maison Margiela Sneakers Item 79,Maison Margiela,Sneakers,1741.0,Streetwear
+P0080,Off-White Jewellery Item 80,Off-White,Jewellery,3894.0,Classic
+P0081,Off-White Accessories Item 81,Off-White,Accessories,1937.0,Minimalist
+P0082,Ami Paris Sneakers Item 82,Ami Paris,Sneakers,1598.0,Avant-Garde
+P0083,Bottega Veneta Shoes Item 83,Bottega Veneta,Shoes,2141.0,Avant-Garde
+P0084,Balenciaga Ready-to-Wear Item 84,Balenciaga,Ready-to-Wear,3474.0,Contemporary
+P0085,Maison Margiela Shoes Item 85,Maison Margiela,Shoes,724.0,Streetwear
+P0086,Bottega Veneta Shoes Item 86,Bottega Veneta,Shoes,1029.0,Classic
+P0087,The Row Ready-to-Wear Item 87,The Row,Ready-to-Wear,4290.0,Contemporary
+P0088,Burberry Ready-to-Wear Item 88,Burberry,Ready-to-Wear,938.0,Streetwear
+P0089,Acne Studios Jewellery Item 89,Acne Studios,Jewellery,2633.0,Minimalist
+P0090,Prada Jewellery Item 90,Prada,Jewellery,2683.0,Avant-Garde
+P0091,Off-White Ready-to-Wear Item 91,Off-White,Ready-to-Wear,2295.0,Bohemian
+P0092,Alexander McQueen Sneakers Item 92,Alexander McQueen,Sneakers,2965.0,Classic
+P0093,Burberry Bags Item 93,Burberry,Bags,1173.0,Bohemian
+P0094,Acne Studios Jewellery Item 94,Acne Studios,Jewellery,2568.0,Avant-Garde
+P0095,Jacquemus Bags Item 95,Jacquemus,Bags,1788.0,Bohemian
+P0096,Burberry Sneakers Item 96,Burberry,Sneakers,3038.0,Minimalist
+P0097,Burberry Ready-to-Wear Item 97,Burberry,Ready-to-Wear,790.0,Streetwear
+P0098,Maison Margiela Sneakers Item 98,Maison Margiela,Sneakers,2646.0,Minimalist
+P0099,Ami Paris Jewellery Item 99,Ami Paris,Jewellery,980.0,Bohemian
+P0100,Valentino Shoes Item 100,Valentino,Shoes,1384.0,Minimalist
+P0101,Burberry Ready-to-Wear Item 101,Burberry,Ready-to-Wear,1125.0,Avant-Garde
+P0102,Ami Paris Accessories Item 102,Ami Paris,Accessories,970.0,Classic
+P0103,Off-White Bags Item 103,Off-White,Bags,3747.0,Minimalist
+P0104,Prada Sneakers Item 104,Prada,Sneakers,1414.0,Avant-Garde
+P0105,Prada Ready-to-Wear Item 105,Prada,Ready-to-Wear,4185.0,Classic
+P0106,Burberry Sneakers Item 106,Burberry,Sneakers,4370.0,Streetwear
+P0107,Jacquemus Ready-to-Wear Item 107,Jacquemus,Ready-to-Wear,2648.0,Bohemian
+P0108,Gucci Jewellery Item 108,Gucci,Jewellery,798.0,Streetwear
+P0109,Off-White Jewellery Item 109,Off-White,Jewellery,1798.0,Contemporary
+P0110,Ami Paris Jewellery Item 110,Ami Paris,Jewellery,3626.0,Avant-Garde
+P0111,Off-White Sneakers Item 111,Off-White,Sneakers,1767.0,Classic
+P0112,Jacquemus Accessories Item 112,Jacquemus,Accessories,556.0,Minimalist
+P0113,Saint Laurent Jewellery Item 113,Saint Laurent,Jewellery,2585.0,Streetwear
+P0114,The Row Ready-to-Wear Item 114,The Row,Ready-to-Wear,3831.0,Classic
+P0115,Jacquemus Jewellery Item 115,Jacquemus,Jewellery,3618.0,Avant-Garde
+P0116,Ami Paris Shoes Item 116,Ami Paris,Shoes,937.0,Contemporary
+P0117,Maison Margiela Jewellery Item 117,Maison Margiela,Jewellery,3086.0,Streetwear
+P0118,Jacquemus Sneakers Item 118,Jacquemus,Sneakers,1133.0,Bohemian
+P0119,Ami Paris Accessories Item 119,Ami Paris,Accessories,1123.0,Classic
+P0120,Loewe Shoes Item 120,Loewe,Shoes,3956.0,Bohemian
+P0121,Balenciaga Sneakers Item 121,Balenciaga,Sneakers,1259.0,Classic
+P0122,Ami Paris Sneakers Item 122,Ami Paris,Sneakers,1317.0,Classic
+P0123,Jacquemus Sneakers Item 123,Jacquemus,Sneakers,183.0,Avant-Garde
+P0124,Balenciaga Ready-to-Wear Item 124,Balenciaga,Ready-to-Wear,3941.0,Avant-Garde
+P0125,Maison Margiela Sneakers Item 125,Maison Margiela,Sneakers,3604.0,Avant-Garde
+P0126,Maison Margiela Ready-to-Wear Item 126,Maison Margiela,Ready-to-Wear,2890.0,Minimalist
+P0127,Ami Paris Sneakers Item 127,Ami Paris,Sneakers,3421.0,Classic
+P0128,Ami Paris Bags Item 128,Ami Paris,Bags,837.0,Streetwear
+P0129,Gucci Shoes Item 129,Gucci,Shoes,2160.0,Bohemian
+P0130,Balenciaga Bags Item 130,Balenciaga,Bags,1697.0,Avant-Garde
+P0131,Saint Laurent Sneakers Item 131,Saint Laurent,Sneakers,585.0,Avant-Garde
+P0132,Jacquemus Shoes Item 132,Jacquemus,Shoes,2280.0,Bohemian
+P0133,Jacquemus Shoes Item 133,Jacquemus,Shoes,4158.0,Bohemian
+P0134,Bottega Veneta Accessories Item 134,Bottega Veneta,Accessories,353.0,Classic
+P0135,Balenciaga Bags Item 135,Balenciaga,Bags,1439.0,Avant-Garde
+P0136,Off-White Accessories Item 136,Off-White,Accessories,1077.0,Bohemian
+P0137,Jacquemus Shoes Item 137,Jacquemus,Shoes,1209.0,Minimalist
+P0138,Acne Studios Ready-to-Wear Item 138,Acne Studios,Ready-to-Wear,4104.0,Minimalist
+P0139,Maison Margiela Shoes Item 139,Maison Margiela,Shoes,2202.0,Avant-Garde
+P0140,The Row Accessories Item 140,The Row,Accessories,2194.0,Bohemian
+P0141,Bottega Veneta Bags Item 141,Bottega Veneta,Bags,3466.0,Classic
+P0142,Balenciaga Sneakers Item 142,Balenciaga,Sneakers,847.0,Classic
+P0143,Off-White Sneakers Item 143,Off-White,Sneakers,2285.0,Classic
+P0144,Off-White Bags Item 144,Off-White,Bags,2038.0,Contemporary
+P0145,Maison Margiela Sneakers Item 145,Maison Margiela,Sneakers,2759.0,Avant-Garde
+P0146,Acne Studios Sneakers Item 146,Acne Studios,Sneakers,4498.0,Classic
+P0147,Burberry Accessories Item 147,Burberry,Accessories,3504.0,Minimalist
+P0148,Prada Bags Item 148,Prada,Bags,1899.0,Bohemian
+P0149,Gucci Jewellery Item 149,Gucci,Jewellery,3755.0,Streetwear
+P0150,Saint Laurent Ready-to-Wear Item 150,Saint Laurent,Ready-to-Wear,917.0,Streetwear
+P0151,Valentino Ready-to-Wear Item 151,Valentino,Ready-to-Wear,312.0,Classic
+P0152,Maison Margiela Sneakers Item 152,Maison Margiela,Sneakers,1063.0,Streetwear
+P0153,Jacquemus Ready-to-Wear Item 153,Jacquemus,Ready-to-Wear,1651.0,Streetwear
+P0154,Loewe Bags Item 154,Loewe,Bags,2386.0,Contemporary
+P0155,Balenciaga Bags Item 155,Balenciaga,Bags,2837.0,Minimalist
+P0156,Balenciaga Shoes Item 156,Balenciaga,Shoes,4114.0,Minimalist
+P0157,Bottega Veneta Shoes Item 157,Bottega Veneta,Shoes,2383.0,Contemporary
+P0158,Bottega Veneta Ready-to-Wear Item 158,Bottega Veneta,Ready-to-Wear,2346.0,Contemporary
+P0159,Ami Paris Jewellery Item 159,Ami Paris,Jewellery,397.0,Streetwear
+P0160,Loewe Shoes Item 160,Loewe,Shoes,331.0,Avant-Garde
+P0161,Balenciaga Shoes Item 161,Balenciaga,Shoes,2561.0,Bohemian
+P0162,Alexander McQueen Bags Item 162,Alexander McQueen,Bags,2073.0,Bohemian
+P0163,Saint Laurent Jewellery Item 163,Saint Laurent,Jewellery,3805.0,Streetwear
+P0164,Ami Paris Sneakers Item 164,Ami Paris,Sneakers,874.0,Bohemian
+P0165,Ami Paris Ready-to-Wear Item 165,Ami Paris,Ready-to-Wear,288.0,Contemporary
+P0166,Maison Margiela Shoes Item 166,Maison Margiela,Shoes,2120.0,Minimalist
+P0167,Balenciaga Jewellery Item 167,Balenciaga,Jewellery,1206.0,Bohemian
+P0168,Jacquemus Jewellery Item 168,Jacquemus,Jewellery,394.0,Streetwear
+P0169,Prada Ready-to-Wear Item 169,Prada,Ready-to-Wear,3310.0,Avant-Garde
+P0170,Loewe Jewellery Item 170,Loewe,Jewellery,662.0,Streetwear
+P0171,Ami Paris Jewellery Item 171,Ami Paris,Jewellery,2808.0,Classic
+P0172,Jacquemus Jewellery Item 172,Jacquemus,Jewellery,1394.0,Streetwear
+P0173,Alexander McQueen Shoes Item 173,Alexander McQueen,Shoes,930.0,Contemporary
+P0174,Saint Laurent Ready-to-Wear Item 174,Saint Laurent,Ready-to-Wear,1821.0,Minimalist
+P0175,Balenciaga Jewellery Item 175,Balenciaga,Jewellery,3642.0,Minimalist
+P0176,Valentino Jewellery Item 176,Valentino,Jewellery,1874.0,Bohemian
+P0177,Burberry Shoes Item 177,Burberry,Shoes,3423.0,Contemporary
+P0178,Jacquemus Ready-to-Wear Item 178,Jacquemus,Ready-to-Wear,722.0,Classic
+P0179,Acne Studios Bags Item 179,Acne Studios,Bags,3518.0,Contemporary
+P0180,Prada Shoes Item 180,Prada,Shoes,1204.0,Streetwear
+P0181,Valentino Ready-to-Wear Item 181,Valentino,Ready-to-Wear,3106.0,Contemporary
+P0182,The Row Jewellery Item 182,The Row,Jewellery,2624.0,Contemporary
+P0183,Bottega Veneta Ready-to-Wear Item 183,Bottega Veneta,Ready-to-Wear,4194.0,Classic
+P0184,Maison Margiela Ready-to-Wear Item 184,Maison Margiela,Ready-to-Wear,1853.0,Streetwear
+P0185,Jacquemus Sneakers Item 185,Jacquemus,Sneakers,466.0,Avant-Garde
+P0186,Bottega Veneta Ready-to-Wear Item 186,Bottega Veneta,Ready-to-Wear,263.0,Avant-Garde
+P0187,Balenciaga Bags Item 187,Balenciaga,Bags,3752.0,Minimalist
+P0188,Bottega Veneta Ready-to-Wear Item 188,Bottega Veneta,Ready-to-Wear,2447.0,Bohemian
+P0189,The Row Bags Item 189,The Row,Bags,3529.0,Contemporary
+P0190,Prada Jewellery Item 190,Prada,Jewellery,1193.0,Minimalist
+P0191,Saint Laurent Bags Item 191,Saint Laurent,Bags,1671.0,Classic
+P0192,Off-White Jewellery Item 192,Off-White,Jewellery,310.0,Avant-Garde
+P0193,Gucci Jewellery Item 193,Gucci,Jewellery,4334.0,Contemporary
+P0194,Loewe Bags Item 194,Loewe,Bags,3065.0,Classic
+P0195,Saint Laurent Shoes Item 195,Saint Laurent,Shoes,4211.0,Bohemian
+P0196,Off-White Accessories Item 196,Off-White,Accessories,1327.0,Classic
+P0197,Alexander McQueen Ready-to-Wear Item 197,Alexander McQueen,Ready-to-Wear,2822.0,Contemporary
+P0198,Acne Studios Sneakers Item 198,Acne Studios,Sneakers,3111.0,Bohemian
+P0199,Jacquemus Accessories Item 199,Jacquemus,Accessories,1552.0,Classic
+P0200,Jacquemus Ready-to-Wear Item 200,Jacquemus,Ready-to-Wear,3844.0,Bohemian
+P0201,Ami Paris Ready-to-Wear Item 201,Ami Paris,Ready-to-Wear,4272.0,Contemporary
+P0202,Prada Jewellery Item 202,Prada,Jewellery,4003.0,Contemporary
+P0203,Jacquemus Ready-to-Wear Item 203,Jacquemus,Ready-to-Wear,3373.0,Bohemian
+P0204,Valentino Sneakers Item 204,Valentino,Sneakers,1379.0,Streetwear
+P0205,Off-White Ready-to-Wear Item 205,Off-White,Ready-to-Wear,1397.0,Minimalist
+P0206,Prada Bags Item 206,Prada,Bags,4342.0,Classic
+P0207,Burberry Accessories Item 207,Burberry,Accessories,224.0,Classic
+P0208,Valentino Bags Item 208,Valentino,Bags,3273.0,Streetwear
+P0209,Jacquemus Sneakers Item 209,Jacquemus,Sneakers,3231.0,Streetwear
+P0210,Bottega Veneta Ready-to-Wear Item 210,Bottega Veneta,Ready-to-Wear,2870.0,Streetwear
+P0211,The Row Sneakers Item 211,The Row,Sneakers,4457.0,Avant-Garde
+P0212,Bottega Veneta Jewellery Item 212,Bottega Veneta,Jewellery,1527.0,Avant-Garde
+P0213,Valentino Bags Item 213,Valentino,Bags,1649.0,Bohemian
+P0214,Alexander McQueen Bags Item 214,Alexander McQueen,Bags,521.0,Avant-Garde
+P0215,Jacquemus Shoes Item 215,Jacquemus,Shoes,2093.0,Contemporary
+P0216,Maison Margiela Ready-to-Wear Item 216,Maison Margiela,Ready-to-Wear,1308.0,Bohemian
+P0217,Alexander McQueen Jewellery Item 217,Alexander McQueen,Jewellery,1663.0,Classic
+P0218,Alexander McQueen Bags Item 218,Alexander McQueen,Bags,3785.0,Minimalist
+P0219,Off-White Bags Item 219,Off-White,Bags,4221.0,Contemporary
+P0220,Loewe Jewellery Item 220,Loewe,Jewellery,982.0,Classic
+P0221,Off-White Sneakers Item 221,Off-White,Sneakers,1789.0,Classic
+P0222,Balenciaga Sneakers Item 222,Balenciaga,Sneakers,4192.0,Bohemian
+P0223,Gucci Ready-to-Wear Item 223,Gucci,Ready-to-Wear,447.0,Streetwear
+P0224,Valentino Shoes Item 224,Valentino,Shoes,579.0,Streetwear
+P0225,Saint Laurent Bags Item 225,Saint Laurent,Bags,883.0,Contemporary
+P0226,Gucci Shoes Item 226,Gucci,Shoes,2751.0,Streetwear
+P0227,Maison Margiela Sneakers Item 227,Maison Margiela,Sneakers,830.0,Classic
+P0228,Burberry Sneakers Item 228,Burberry,Sneakers,4362.0,Streetwear
+P0229,The Row Accessories Item 229,The Row,Accessories,2110.0,Avant-Garde
+P0230,Off-White Ready-to-Wear Item 230,Off-White,Ready-to-Wear,2347.0,Streetwear
+P0231,Off-White Accessories Item 231,Off-White,Accessories,1246.0,Classic
+P0232,Prada Accessories Item 232,Prada,Accessories,2215.0,Bohemian
+P0233,Maison Margiela Accessories Item 233,Maison Margiela,Accessories,3039.0,Contemporary
+P0234,Gucci Ready-to-Wear Item 234,Gucci,Ready-to-Wear,3425.0,Minimalist
+P0235,Ami Paris Ready-to-Wear Item 235,Ami Paris,Ready-to-Wear,3437.0,Streetwear
+P0236,Acne Studios Jewellery Item 236,Acne Studios,Jewellery,2676.0,Classic
+P0237,Acne Studios Shoes Item 237,Acne Studios,Shoes,4087.0,Minimalist
+P0238,Prada Shoes Item 238,Prada,Shoes,3711.0,Minimalist
+P0239,Saint Laurent Jewellery Item 239,Saint Laurent,Jewellery,3450.0,Avant-Garde
+P0240,Prada Jewellery Item 240,Prada,Jewellery,420.0,Minimalist
+P0241,Gucci Sneakers Item 241,Gucci,Sneakers,210.0,Bohemian
+P0242,Valentino Accessories Item 242,Valentino,Accessories,1098.0,Classic
+P0243,Jacquemus Jewellery Item 243,Jacquemus,Jewellery,3046.0,Classic
+P0244,Jacquemus Bags Item 244,Jacquemus,Bags,1956.0,Streetwear
+P0245,Maison Margiela Shoes Item 245,Maison Margiela,Shoes,1918.0,Streetwear
+P0246,The Row Jewellery Item 246,The Row,Jewellery,4001.0,Streetwear
+P0247,Burberry Bags Item 247,Burberry,Bags,4049.0,Bohemian
+P0248,Off-White Bags Item 248,Off-White,Bags,4108.0,Minimalist
+P0249,Saint Laurent Bags Item 249,Saint Laurent,Bags,1536.0,Minimalist
+P0250,Acne Studios Sneakers Item 250,Acne Studios,Sneakers,3165.0,Avant-Garde
+P0251,Off-White Sneakers Item 251,Off-White,Sneakers,1353.0,Bohemian
+P0252,Balenciaga Bags Item 252,Balenciaga,Bags,1003.0,Streetwear
+P0253,The Row Sneakers Item 253,The Row,Sneakers,978.0,Contemporary
+P0254,Burberry Accessories Item 254,Burberry,Accessories,1658.0,Avant-Garde
+P0255,Loewe Bags Item 255,Loewe,Bags,2037.0,Contemporary
+P0256,Acne Studios Accessories Item 256,Acne Studios,Accessories,3770.0,Minimalist
+P0257,Ami Paris Accessories Item 257,Ami Paris,Accessories,698.0,Avant-Garde
+P0258,Ami Paris Bags Item 258,Ami Paris,Bags,3355.0,Avant-Garde
+P0259,Prada Shoes Item 259,Prada,Shoes,2476.0,Classic
+P0260,Bottega Veneta Bags Item 260,Bottega Veneta,Bags,1424.0,Minimalist
+P0261,Gucci Bags Item 261,Gucci,Bags,2309.0,Minimalist
+P0262,Off-White Sneakers Item 262,Off-White,Sneakers,1476.0,Bohemian
+P0263,Prada Bags Item 263,Prada,Bags,2755.0,Avant-Garde
+P0264,Saint Laurent Shoes Item 264,Saint Laurent,Shoes,2054.0,Minimalist
+P0265,Off-White Sneakers Item 265,Off-White,Sneakers,890.0,Avant-Garde
+P0266,Loewe Ready-to-Wear Item 266,Loewe,Ready-to-Wear,684.0,Bohemian
+P0267,Jacquemus Ready-to-Wear Item 267,Jacquemus,Ready-to-Wear,2542.0,Bohemian
+P0268,Burberry Accessories Item 268,Burberry,Accessories,4078.0,Classic
+P0269,The Row Accessories Item 269,The Row,Accessories,1666.0,Avant-Garde
+P0270,Burberry Shoes Item 270,Burberry,Shoes,3347.0,Minimalist
+P0271,Jacquemus Jewellery Item 271,Jacquemus,Jewellery,3025.0,Minimalist
+P0272,Off-White Ready-to-Wear Item 272,Off-White,Ready-to-Wear,4204.0,Avant-Garde
+P0273,Saint Laurent Accessories Item 273,Saint Laurent,Accessories,3727.0,Avant-Garde
+P0274,Burberry Ready-to-Wear Item 274,Burberry,Ready-to-Wear,2628.0,Avant-Garde
+P0275,Ami Paris Shoes Item 275,Ami Paris,Shoes,3018.0,Streetwear
+P0276,Burberry Shoes Item 276,Burberry,Shoes,4061.0,Minimalist
+P0277,Loewe Jewellery Item 277,Loewe,Jewellery,1906.0,Bohemian
+P0278,Acne Studios Jewellery Item 278,Acne Studios,Jewellery,1592.0,Minimalist
+P0279,Gucci Sneakers Item 279,Gucci,Sneakers,227.0,Streetwear
+P0280,Saint Laurent Shoes Item 280,Saint Laurent,Shoes,3751.0,Avant-Garde
+P0281,Saint Laurent Accessories Item 281,Saint Laurent,Accessories,3640.0,Classic
+P0282,Valentino Ready-to-Wear Item 282,Valentino,Ready-to-Wear,631.0,Avant-Garde
+P0283,Acne Studios Bags Item 283,Acne Studios,Bags,2672.0,Avant-Garde
+P0284,Acne Studios Jewellery Item 284,Acne Studios,Jewellery,2184.0,Streetwear
+P0285,Jacquemus Bags Item 285,Jacquemus,Bags,693.0,Minimalist
+P0286,Valentino Accessories Item 286,Valentino,Accessories,4416.0,Avant-Garde
+P0287,Ami Paris Jewellery Item 287,Ami Paris,Jewellery,1107.0,Minimalist
+P0288,Jacquemus Bags Item 288,Jacquemus,Bags,470.0,Contemporary
+P0289,Maison Margiela Accessories Item 289,Maison Margiela,Accessories,2750.0,Bohemian
+P0290,Burberry Ready-to-Wear Item 290,Burberry,Ready-to-Wear,3372.0,Minimalist
+P0291,Jacquemus Accessories Item 291,Jacquemus,Accessories,320.0,Classic
+P0292,Bottega Veneta Sneakers Item 292,Bottega Veneta,Sneakers,3026.0,Bohemian
+P0293,Valentino Jewellery Item 293,Valentino,Jewellery,2480.0,Classic
+P0294,Burberry Shoes Item 294,Burberry,Shoes,626.0,Avant-Garde
+P0295,Maison Margiela Ready-to-Wear Item 295,Maison Margiela,Ready-to-Wear,925.0,Bohemian
+P0296,Alexander McQueen Bags Item 296,Alexander McQueen,Bags,2634.0,Minimalist
+P0297,Balenciaga Jewellery Item 297,Balenciaga,Jewellery,1460.0,Bohemian
+P0298,Balenciaga Shoes Item 298,Balenciaga,Shoes,4234.0,Avant-Garde
+P0299,Saint Laurent Accessories Item 299,Saint Laurent,Accessories,3717.0,Streetwear
+P0300,Bottega Veneta Shoes Item 300,Bottega Veneta,Shoes,4429.0,Classic

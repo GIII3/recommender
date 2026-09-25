@@ -1,0 +1,501 @@
+user_id,age,gender,location,preferred_styles
+U0001,50,Men,Hong Kong,"Minimalist,Bohemian"
+U0002,36,Women,Riyadh,"Streetwear,Contemporary"
+U0003,29,Women,Dubai,"Contemporary,Avant-Garde"
+U0004,42,Other,Singapore,"Bohemian,Classic"
+U0005,40,Women,Milan,"Bohemian,Minimalist"
+U0006,44,Women,New York,"Contemporary,Streetwear"
+U0007,32,Men,London,"Minimalist,Streetwear"
+U0008,32,Men,Hong Kong,"Avant-Garde,Classic"
+U0009,45,Other,Singapore,"Bohemian,Avant-Garde"
+U0010,57,Men,Milan,Bohemian
+U0011,45,Women,Riyadh,Classic
+U0012,24,Women,Los Angeles,Contemporary
+U0013,43,Men,Hong Kong,"Streetwear,Contemporary"
+U0014,23,Men,Riyadh,Contemporary
+U0015,45,Women,Milan,Classic
+U0016,51,Men,Hong Kong,Classic
+U0017,59,Women,Singapore,"Contemporary,Classic"
+U0018,23,Women,Milan,"Contemporary,Bohemian"
+U0019,42,Women,Tokyo,"Streetwear,Bohemian"
+U0020,54,Women,New York,Classic
+U0021,33,Women,Singapore,Bohemian
+U0022,43,Women,Hong Kong,Contemporary
+U0023,46,Women,Los Angeles,Bohemian
+U0024,48,Men,Riyadh,"Contemporary,Minimalist"
+U0025,49,Men,London,Contemporary
+U0026,37,Men,Riyadh,"Minimalist,Bohemian"
+U0027,36,Men,Hong Kong,Minimalist
+U0028,24,Women,Riyadh,"Bohemian,Minimalist"
+U0029,58,Women,New York,"Avant-Garde,Minimalist"
+U0030,28,Men,Milan,Avant-Garde
+U0031,42,Women,London,"Avant-Garde,Classic"
+U0032,30,Men,Paris,"Minimalist,Streetwear"
+U0033,39,Women,Hong Kong,"Streetwear,Contemporary"
+U0034,25,Men,Dubai,Classic
+U0035,46,Women,Paris,Minimalist
+U0036,35,Men,Riyadh,"Contemporary,Avant-Garde"
+U0037,30,Women,Hong Kong,"Bohemian,Minimalist"
+U0038,47,Other,Tokyo,Avant-Garde
+U0039,23,Women,Dubai,Minimalist
+U0040,41,Men,London,"Classic,Bohemian"
+U0041,49,Men,Los Angeles,Avant-Garde
+U0042,28,Women,Tokyo,Bohemian
+U0043,29,Men,Paris,Contemporary
+U0044,56,Men,Milan,"Streetwear,Minimalist"
+U0045,35,Women,New York,Bohemian
+U0046,38,Men,Los Angeles,"Avant-Garde,Contemporary"
+U0047,57,Men,Tokyo,Classic
+U0048,25,Men,Milan,"Classic,Bohemian"
+U0049,23,Women,Milan,"Contemporary,Minimalist"
+U0050,27,Women,Hong Kong,"Streetwear,Classic"
+U0051,25,Men,Tokyo,"Contemporary,Classic"
+U0052,50,Men,London,"Contemporary,Streetwear"
+U0053,39,Women,Riyadh,Streetwear
+U0054,47,Men,Dubai,Avant-Garde
+U0055,55,Women,Dubai,Minimalist
+U0056,31,Women,Paris,"Contemporary,Avant-Garde"
+U0057,57,Women,Paris,Bohemian
+U0058,35,Women,Dubai,Streetwear
+U0059,52,Men,London,Streetwear
+U0060,36,Women,New York,"Minimalist,Avant-Garde"
+U0061,29,Other,Singapore,"Contemporary,Classic"
+U0062,35,Other,Riyadh,Avant-Garde
+U0063,44,Men,New York,Bohemian
+U0064,42,Women,Hong Kong,"Bohemian,Minimalist"
+U0065,37,Women,Singapore,"Contemporary,Classic"
+U0066,39,Men,Singapore,Minimalist
+U0067,45,Men,Tokyo,Minimalist
+U0068,47,Women,London,Avant-Garde
+U0069,46,Men,London,Avant-Garde
+U0070,50,Men,Singapore,"Contemporary,Avant-Garde"
+U0071,36,Men,Tokyo,"Classic,Streetwear"
+U0072,22,Men,Riyadh,"Classic,Bohemian"
+U0073,46,Men,Singapore,"Streetwear,Classic"
+U0074,28,Women,Los Angeles,"Contemporary,Classic"
+U0075,30,Men,Paris,Contemporary
+U0076,45,Men,Paris,Contemporary
+U0077,22,Women,New York,Bohemian
+U0078,29,Women,Hong Kong,"Contemporary,Streetwear"
+U0079,45,Women,Paris,"Classic,Streetwear"
+U0080,32,Men,Milan,Streetwear
+U0081,38,Other,New York,Avant-Garde
+U0082,29,Women,Paris,"Bohemian,Contemporary"
+U0083,56,Men,Hong Kong,"Streetwear,Bohemian"
+U0084,56,Women,London,"Contemporary,Avant-Garde"
+U0085,54,Men,London,Streetwear
+U0086,26,Men,Riyadh,"Bohemian,Avant-Garde"
+U0087,49,Men,Singapore,"Minimalist,Bohemian"
+U0088,28,Women,Los Angeles,Minimalist
+U0089,30,Women,London,"Bohemian,Contemporary"
+U0090,29,Women,Tokyo,"Avant-Garde,Bohemian"
+U0091,33,Women,Paris,Streetwear
+U0092,55,Men,Tokyo,Contemporary
+U0093,54,Men,Hong Kong,Classic
+U0094,44,Other,London,"Contemporary,Minimalist"
+U0095,45,Other,Los Angeles,"Streetwear,Minimalist"
+U0096,58,Men,Hong Kong,Avant-Garde
+U0097,56,Men,Milan,Classic
+U0098,43,Men,Milan,Streetwear
+U0099,48,Men,Tokyo,"Bohemian,Streetwear"
+U0100,56,Women,Singapore,"Classic,Streetwear"
+U0101,22,Women,New York,"Bohemian,Avant-Garde"
+U0102,56,Women,Singapore,"Contemporary,Bohemian"
+U0103,58,Men,Riyadh,Minimalist
+U0104,35,Men,Singapore,"Bohemian,Minimalist"
+U0105,24,Women,Riyadh,Classic
+U0106,22,Men,Riyadh,Bohemian
+U0107,26,Men,Los Angeles,"Minimalist,Classic"
+U0108,47,Women,London,"Bohemian,Avant-Garde"
+U0109,35,Women,Los Angeles,Classic
+U0110,48,Men,Riyadh,"Streetwear,Minimalist"
+U0111,30,Women,Hong Kong,"Minimalist,Avant-Garde"
+U0112,36,Men,Milan,Contemporary
+U0113,36,Women,Riyadh,Streetwear
+U0114,47,Men,Los Angeles,"Streetwear,Minimalist"
+U0115,34,Men,Hong Kong,Bohemian
+U0116,53,Men,Los Angeles,Classic
+U0117,53,Men,Singapore,"Contemporary,Streetwear"
+U0118,25,Women,Paris,Streetwear
+U0119,51,Women,Tokyo,"Bohemian,Streetwear"
+U0120,58,Women,New York,"Streetwear,Classic"
+U0121,44,Men,Los Angeles,"Bohemian,Streetwear"
+U0122,36,Men,New York,"Classic,Contemporary"
+U0123,50,Men,Dubai,"Minimalist,Classic"
+U0124,57,Women,Los Angeles,Classic
+U0125,34,Women,Paris,Classic
+U0126,53,Women,New York,Classic
+U0127,28,Women,Riyadh,"Contemporary,Minimalist"
+U0128,43,Men,Los Angeles,Contemporary
+U0129,49,Women,London,Bohemian
+U0130,23,Women,Tokyo,"Avant-Garde,Bohemian"
+U0131,27,Men,Paris,"Avant-Garde,Minimalist"
+U0132,49,Women,New York,Streetwear
+U0133,49,Women,Paris,Minimalist
+U0134,41,Men,Hong Kong,"Contemporary,Bohemian"
+U0135,51,Women,Tokyo,"Minimalist,Classic"
+U0136,32,Men,Riyadh,"Bohemian,Contemporary"
+U0137,49,Men,Los Angeles,Minimalist
+U0138,46,Men,Los Angeles,"Avant-Garde,Streetwear"
+U0139,54,Women,Los Angeles,"Contemporary,Classic"
+U0140,22,Men,Tokyo,Bohemian
+U0141,48,Women,London,Avant-Garde
+U0142,34,Women,Dubai,Contemporary
+U0143,24,Women,Milan,"Contemporary,Avant-Garde"
+U0144,27,Other,Singapore,Streetwear
+U0145,29,Women,New York,"Contemporary,Classic"
+U0146,48,Women,London,Bohemian
+U0147,30,Men,Riyadh,Classic
+U0148,58,Women,New York,"Contemporary,Minimalist"
+U0149,54,Women,Los Angeles,Bohemian
+U0150,45,Women,Paris,"Classic,Avant-Garde"
+U0151,36,Women,Riyadh,"Minimalist,Contemporary"
+U0152,53,Women,New York,"Minimalist,Contemporary"
+U0153,53,Women,Los Angeles,"Bohemian,Streetwear"
+U0154,45,Men,New York,"Avant-Garde,Streetwear"
+U0155,33,Women,Paris,Minimalist
+U0156,23,Women,Los Angeles,Minimalist
+U0157,24,Men,Dubai,Contemporary
+U0158,58,Women,London,"Bohemian,Minimalist"
+U0159,38,Men,Hong Kong,"Contemporary,Streetwear"
+U0160,23,Women,Singapore,"Classic,Streetwear"
+U0161,23,Women,Tokyo,Contemporary
+U0162,49,Women,Singapore,Contemporary
+U0163,44,Women,Riyadh,"Contemporary,Avant-Garde"
+U0164,58,Women,Singapore,"Minimalist,Avant-Garde"
+U0165,53,Women,Los Angeles,"Contemporary,Streetwear"
+U0166,54,Women,Dubai,Avant-Garde
+U0167,22,Women,Hong Kong,"Avant-Garde,Minimalist"
+U0168,40,Women,London,Classic
+U0169,23,Women,London,Streetwear
+U0170,47,Women,Paris,"Bohemian,Contemporary"
+U0171,53,Women,Tokyo,"Bohemian,Classic"
+U0172,27,Men,New York,"Streetwear,Classic"
+U0173,53,Women,Dubai,"Minimalist,Classic"
+U0174,25,Men,New York,"Minimalist,Streetwear"
+U0175,32,Men,Hong Kong,Minimalist
+U0176,38,Women,Singapore,"Avant-Garde,Bohemian"
+U0177,59,Men,London,Bohemian
+U0178,45,Men,Hong Kong,Streetwear
+U0179,26,Women,Singapore,Avant-Garde
+U0180,55,Women,London,"Classic,Streetwear"
+U0181,27,Men,Singapore,"Avant-Garde,Streetwear"
+U0182,43,Men,Tokyo,"Bohemian,Contemporary"
+U0183,32,Women,Dubai,"Streetwear,Contemporary"
+U0184,37,Women,Riyadh,"Minimalist,Streetwear"
+U0185,54,Women,Hong Kong,"Bohemian,Contemporary"
+U0186,30,Women,Hong Kong,Bohemian
+U0187,27,Men,Milan,Contemporary
+U0188,37,Women,Los Angeles,"Streetwear,Contemporary"
+U0189,50,Women,Tokyo,Minimalist
+U0190,24,Men,Tokyo,Bohemian
+U0191,41,Women,New York,Classic
+U0192,57,Women,Singapore,Minimalist
+U0193,40,Men,Los Angeles,Classic
+U0194,47,Men,Dubai,"Avant-Garde,Bohemian"
+U0195,24,Women,Dubai,"Avant-Garde,Streetwear"
+U0196,40,Women,Tokyo,"Minimalist,Streetwear"
+U0197,41,Women,Dubai,"Avant-Garde,Streetwear"
+U0198,53,Women,Milan,"Contemporary,Minimalist"
+U0199,28,Women,Hong Kong,"Avant-Garde,Contemporary"
+U0200,54,Women,Paris,"Classic,Avant-Garde"
+U0201,39,Women,Riyadh,"Streetwear,Contemporary"
+U0202,22,Women,New York,"Streetwear,Contemporary"
+U0203,32,Women,Singapore,Streetwear
+U0204,49,Women,Riyadh,Streetwear
+U0205,46,Women,Singapore,"Avant-Garde,Bohemian"
+U0206,44,Women,London,Bohemian
+U0207,52,Women,Riyadh,Contemporary
+U0208,51,Men,Paris,"Classic,Streetwear"
+U0209,56,Men,Tokyo,"Bohemian,Streetwear"
+U0210,28,Men,Milan,"Contemporary,Classic"
+U0211,37,Men,Hong Kong,Classic
+U0212,47,Women,Hong Kong,"Classic,Contemporary"
+U0213,23,Women,Milan,"Avant-Garde,Classic"
+U0214,22,Women,Los Angeles,Classic
+U0215,33,Men,London,Contemporary
+U0216,26,Men,Singapore,Classic
+U0217,58,Women,Paris,Avant-Garde
+U0218,53,Women,Dubai,"Minimalist,Classic"
+U0219,30,Women,Riyadh,Bohemian
+U0220,56,Women,London,Avant-Garde
+U0221,40,Men,Riyadh,Streetwear
+U0222,37,Men,Paris,"Contemporary,Avant-Garde"
+U0223,24,Women,New York,"Contemporary,Streetwear"
+U0224,41,Other,New York,Bohemian
+U0225,45,Men,London,Avant-Garde
+U0226,54,Women,Tokyo,"Minimalist,Classic"
+U0227,45,Women,Paris,Avant-Garde
+U0228,32,Women,Paris,"Bohemian,Contemporary"
+U0229,29,Women,Milan,"Streetwear,Classic"
+U0230,57,Women,Tokyo,Avant-Garde
+U0231,59,Women,Singapore,"Classic,Bohemian"
+U0232,41,Women,Singapore,"Classic,Streetwear"
+U0233,56,Women,Dubai,Avant-Garde
+U0234,46,Men,Hong Kong,Classic
+U0235,56,Women,New York,Streetwear
+U0236,46,Women,Singapore,Classic
+U0237,50,Women,Tokyo,"Contemporary,Minimalist"
+U0238,39,Other,Paris,"Minimalist,Bohemian"
+U0239,39,Women,Singapore,"Classic,Bohemian"
+U0240,23,Women,Paris,"Classic,Bohemian"
+U0241,56,Men,Singapore,"Bohemian,Contemporary"
+U0242,37,Men,New York,Streetwear
+U0243,57,Men,Riyadh,Bohemian
+U0244,54,Women,Singapore,Avant-Garde
+U0245,25,Women,Tokyo,"Bohemian,Contemporary"
+U0246,54,Men,Singapore,Classic
+U0247,35,Men,Hong Kong,Bohemian
+U0248,42,Men,New York,Avant-Garde
+U0249,41,Men,Tokyo,Classic
+U0250,29,Women,Milan,Classic
+U0251,28,Men,Tokyo,"Bohemian,Classic"
+U0252,24,Women,Hong Kong,"Avant-Garde,Contemporary"
+U0253,38,Women,Riyadh,Bohemian
+U0254,54,Women,New York,"Minimalist,Bohemian"
+U0255,33,Women,Milan,Contemporary
+U0256,43,Women,Hong Kong,Bohemian
+U0257,43,Women,Hong Kong,Avant-Garde
+U0258,51,Men,London,"Minimalist,Streetwear"
+U0259,59,Women,New York,"Contemporary,Avant-Garde"
+U0260,59,Men,Tokyo,"Classic,Streetwear"
+U0261,29,Women,Paris,Avant-Garde
+U0262,48,Women,Riyadh,"Streetwear,Minimalist"
+U0263,48,Women,Paris,"Avant-Garde,Classic"
+U0264,55,Women,Tokyo,Minimalist
+U0265,42,Women,Tokyo,Classic
+U0266,51,Women,New York,Classic
+U0267,54,Women,Tokyo,Bohemian
+U0268,49,Other,London,Minimalist
+U0269,54,Women,Milan,Classic
+U0270,26,Men,Tokyo,Classic
+U0271,40,Women,Paris,"Avant-Garde,Streetwear"
+U0272,25,Men,Tokyo,"Classic,Contemporary"
+U0273,56,Men,London,Contemporary
+U0274,38,Men,Singapore,"Avant-Garde,Streetwear"
+U0275,49,Women,Singapore,Streetwear
+U0276,51,Women,Hong Kong,"Minimalist,Avant-Garde"
+U0277,50,Women,Riyadh,Minimalist
+U0278,27,Men,Dubai,Minimalist
+U0279,56,Men,Milan,Avant-Garde
+U0280,58,Men,Los Angeles,Contemporary
+U0281,45,Women,Hong Kong,"Minimalist,Streetwear"
+U0282,50,Men,Riyadh,Classic
+U0283,52,Men,Singapore,"Minimalist,Streetwear"
+U0284,56,Women,Paris,Streetwear
+U0285,54,Women,Los Angeles,Bohemian
+U0286,42,Men,Riyadh,Contemporary
+U0287,53,Men,Riyadh,Classic
+U0288,44,Men,Hong Kong,Minimalist
+U0289,54,Women,Los Angeles,"Avant-Garde,Classic"
+U0290,24,Men,New York,"Bohemian,Classic"
+U0291,39,Women,Dubai,Avant-Garde
+U0292,46,Women,New York,"Bohemian,Contemporary"
+U0293,52,Women,Los Angeles,Avant-Garde
+U0294,24,Men,New York,"Streetwear,Contemporary"
+U0295,45,Men,London,Streetwear
+U0296,53,Women,Singapore,"Minimalist,Classic"
+U0297,43,Women,London,"Contemporary,Classic"
+U0298,44,Men,Tokyo,Bohemian
+U0299,23,Women,New York,"Minimalist,Streetwear"
+U0300,48,Men,Tokyo,"Contemporary,Classic"
+U0301,23,Women,Paris,"Bohemian,Streetwear"
+U0302,47,Women,Milan,Bohemian
+U0303,38,Women,Paris,"Classic,Streetwear"
+U0304,54,Women,Los Angeles,Streetwear
+U0305,30,Men,Riyadh,Contemporary
+U0306,50,Women,Singapore,Bohemian
+U0307,47,Women,New York,Classic
+U0308,56,Men,Hong Kong,"Avant-Garde,Classic"
+U0309,46,Women,Milan,Minimalist
+U0310,45,Women,Dubai,"Minimalist,Classic"
+U0311,34,Men,Dubai,"Streetwear,Avant-Garde"
+U0312,28,Men,Dubai,Classic
+U0313,57,Women,New York,"Classic,Contemporary"
+U0314,41,Men,Dubai,"Minimalist,Contemporary"
+U0315,22,Men,London,"Bohemian,Classic"
+U0316,29,Women,Milan,"Streetwear,Bohemian"
+U0317,37,Women,London,Bohemian
+U0318,35,Men,Riyadh,Avant-Garde
+U0319,33,Men,Milan,"Classic,Avant-Garde"
+U0320,44,Women,London,"Avant-Garde,Minimalist"
+U0321,36,Men,Milan,"Classic,Contemporary"
+U0322,49,Men,Riyadh,"Classic,Contemporary"
+U0323,55,Women,Tokyo,"Classic,Streetwear"
+U0324,23,Women,New York,Classic
+U0325,53,Women,New York,Contemporary
+U0326,44,Men,Dubai,"Minimalist,Contemporary"
+U0327,43,Women,Paris,"Streetwear,Contemporary"
+U0328,46,Men,Dubai,"Bohemian,Avant-Garde"
+U0329,43,Men,Los Angeles,"Bohemian,Minimalist"
+U0330,43,Men,London,"Classic,Avant-Garde"
+U0331,27,Women,Milan,Streetwear
+U0332,36,Men,Paris,"Avant-Garde,Classic"
+U0333,58,Women,Riyadh,Bohemian
+U0334,54,Men,Los Angeles,"Contemporary,Classic"
+U0335,29,Women,Riyadh,"Streetwear,Contemporary"
+U0336,26,Women,New York,Contemporary
+U0337,25,Men,New York,Contemporary
+U0338,27,Women,Dubai,"Avant-Garde,Minimalist"
+U0339,53,Women,London,"Contemporary,Bohemian"
+U0340,51,Men,Paris,"Minimalist,Avant-Garde"
+U0341,56,Men,Singapore,Streetwear
+U0342,37,Men,Los Angeles,Classic
+U0343,34,Men,Los Angeles,Avant-Garde
+U0344,51,Women,Dubai,"Contemporary,Streetwear"
+U0345,40,Women,New York,"Contemporary,Streetwear"
+U0346,38,Women,Dubai,Classic
+U0347,40,Women,Milan,"Contemporary,Bohemian"
+U0348,49,Men,Paris,"Avant-Garde,Contemporary"
+U0349,47,Men,London,"Minimalist,Classic"
+U0350,58,Women,Tokyo,Contemporary
+U0351,47,Women,Hong Kong,Streetwear
+U0352,44,Men,Hong Kong,Classic
+U0353,30,Women,Dubai,Avant-Garde
+U0354,33,Men,Milan,"Avant-Garde,Contemporary"
+U0355,22,Women,Paris,Classic
+U0356,22,Men,Singapore,"Bohemian,Minimalist"
+U0357,55,Women,Hong Kong,"Bohemian,Minimalist"
+U0358,53,Men,Paris,Avant-Garde
+U0359,46,Men,London,Classic
+U0360,22,Men,Riyadh,"Streetwear,Bohemian"
+U0361,37,Men,Milan,"Avant-Garde,Classic"
+U0362,26,Men,New York,"Avant-Garde,Classic"
+U0363,43,Men,Paris,Minimalist
+U0364,50,Women,London,"Streetwear,Minimalist"
+U0365,24,Men,Singapore,"Classic,Streetwear"
+U0366,33,Men,Tokyo,Minimalist
+U0367,47,Women,New York,"Bohemian,Avant-Garde"
+U0368,37,Men,Tokyo,"Streetwear,Classic"
+U0369,58,Men,Singapore,Bohemian
+U0370,43,Men,London,"Bohemian,Contemporary"
+U0371,50,Women,Hong Kong,"Minimalist,Streetwear"
+U0372,35,Women,Tokyo,"Avant-Garde,Streetwear"
+U0373,49,Other,New York,Minimalist
+U0374,26,Men,Dubai,"Classic,Streetwear"
+U0375,51,Women,Los Angeles,Contemporary
+U0376,26,Men,Paris,Classic
+U0377,33,Men,Hong Kong,"Contemporary,Avant-Garde"
+U0378,37,Women,Tokyo,Minimalist
+U0379,47,Men,Riyadh,"Classic,Streetwear"
+U0380,47,Women,Paris,"Bohemian,Avant-Garde"
+U0381,42,Women,Dubai,"Classic,Contemporary"
+U0382,57,Women,Singapore,"Minimalist,Classic"
+U0383,54,Men,Los Angeles,"Classic,Contemporary"
+U0384,51,Women,London,Minimalist
+U0385,58,Women,Dubai,"Contemporary,Streetwear"
+U0386,44,Women,Dubai,Bohemian
+U0387,31,Women,Singapore,"Bohemian,Classic"
+U0388,26,Men,Milan,"Streetwear,Minimalist"
+U0389,57,Women,Singapore,Classic
+U0390,55,Women,Milan,"Classic,Contemporary"
+U0391,52,Men,Milan,Classic
+U0392,31,Women,Hong Kong,Streetwear
+U0393,40,Women,Hong Kong,Avant-Garde
+U0394,53,Women,New York,"Bohemian,Minimalist"
+U0395,22,Women,Tokyo,Streetwear
+U0396,26,Women,Tokyo,"Contemporary,Streetwear"
+U0397,25,Women,London,Avant-Garde
+U0398,37,Women,Tokyo,"Classic,Bohemian"
+U0399,45,Men,Hong Kong,"Minimalist,Contemporary"
+U0400,37,Women,New York,"Avant-Garde,Classic"
+U0401,23,Men,New York,"Bohemian,Minimalist"
+U0402,49,Men,Milan,Minimalist
+U0403,53,Women,Singapore,Contemporary
+U0404,48,Men,London,"Minimalist,Classic"
+U0405,41,Women,Milan,Minimalist
+U0406,45,Men,Singapore,Contemporary
+U0407,33,Women,Tokyo,"Classic,Avant-Garde"
+U0408,56,Women,Milan,Streetwear
+U0409,54,Women,Paris,"Streetwear,Minimalist"
+U0410,54,Other,Tokyo,"Avant-Garde,Contemporary"
+U0411,58,Women,Singapore,"Streetwear,Contemporary"
+U0412,33,Men,London,"Classic,Minimalist"
+U0413,24,Women,Singapore,Bohemian
+U0414,22,Men,Milan,Minimalist
+U0415,54,Women,Milan,"Classic,Minimalist"
+U0416,31,Men,Dubai,"Bohemian,Contemporary"
+U0417,50,Women,London,Bohemian
+U0418,34,Women,Riyadh,Classic
+U0419,33,Women,Tokyo,"Streetwear,Bohemian"
+U0420,52,Women,New York,"Contemporary,Classic"
+U0421,23,Men,London,Bohemian
+U0422,56,Women,New York,Avant-Garde
+U0423,44,Men,London,Contemporary
+U0424,38,Women,London,Bohemian
+U0425,47,Women,Singapore,Classic
+U0426,29,Women,London,Minimalist
+U0427,50,Women,Dubai,Contemporary
+U0428,47,Men,Riyadh,Bohemian
+U0429,31,Women,Milan,Avant-Garde
+U0430,47,Women,Los Angeles,"Bohemian,Avant-Garde"
+U0431,55,Men,New York,Bohemian
+U0432,28,Men,Milan,"Avant-Garde,Contemporary"
+U0433,25,Women,Los Angeles,Classic
+U0434,32,Women,Riyadh,Minimalist
+U0435,50,Men,Riyadh,Streetwear
+U0436,57,Women,New York,Minimalist
+U0437,46,Women,New York,Streetwear
+U0438,42,Women,Riyadh,Classic
+U0439,57,Men,Los Angeles,"Bohemian,Minimalist"
+U0440,31,Men,London,"Bohemian,Minimalist"
+U0441,58,Women,Tokyo,Streetwear
+U0442,30,Women,Paris,Contemporary
+U0443,45,Women,Milan,Minimalist
+U0444,56,Men,Singapore,"Classic,Minimalist"
+U0445,56,Women,Milan,Minimalist
+U0446,57,Women,Singapore,Classic
+U0447,39,Men,Los Angeles,Minimalist
+U0448,53,Women,Singapore,Minimalist
+U0449,45,Men,New York,"Classic,Bohemian"
+U0450,44,Women,Tokyo,"Classic,Streetwear"
+U0451,53,Women,Tokyo,Classic
+U0452,58,Women,New York,Minimalist
+U0453,33,Men,Dubai,"Avant-Garde,Bohemian"
+U0454,34,Men,Los Angeles,"Minimalist,Bohemian"
+U0455,44,Men,Dubai,Bohemian
+U0456,46,Women,Dubai,Classic
+U0457,56,Men,Milan,Contemporary
+U0458,51,Women,Riyadh,Classic
+U0459,38,Women,Milan,"Bohemian,Classic"
+U0460,41,Men,Riyadh,"Avant-Garde,Classic"
+U0461,46,Women,Paris,Minimalist
+U0462,43,Women,Singapore,Bohemian
+U0463,34,Women,Riyadh,"Classic,Minimalist"
+U0464,40,Women,New York,"Streetwear,Classic"
+U0465,57,Women,Milan,"Minimalist,Bohemian"
+U0466,33,Men,Los Angeles,"Minimalist,Avant-Garde"
+U0467,40,Women,Singapore,"Streetwear,Classic"
+U0468,33,Men,Paris,"Avant-Garde,Contemporary"
+U0469,30,Men,Riyadh,"Streetwear,Contemporary"
+U0470,28,Women,Paris,"Avant-Garde,Streetwear"
+U0471,49,Women,Los Angeles,Avant-Garde
+U0472,35,Women,Dubai,Bohemian
+U0473,52,Men,Tokyo,"Minimalist,Classic"
+U0474,40,Women,Los Angeles,Avant-Garde
+U0475,37,Men,Hong Kong,Contemporary
+U0476,26,Women,Los Angeles,"Bohemian,Contemporary"
+U0477,56,Men,Paris,Avant-Garde
+U0478,33,Women,New York,"Classic,Contemporary"
+U0479,46,Women,Milan,"Streetwear,Contemporary"
+U0480,42,Men,New York,"Bohemian,Avant-Garde"
+U0481,57,Men,Paris,"Avant-Garde,Classic"
+U0482,44,Women,Milan,"Bohemian,Classic"
+U0483,37,Men,Hong Kong,Contemporary
+U0484,35,Women,Tokyo,Contemporary
+U0485,52,Men,Singapore,"Classic,Streetwear"
+U0486,26,Men,Paris,Classic
+U0487,56,Women,Riyadh,"Bohemian,Streetwear"
+U0488,44,Women,Paris,"Streetwear,Avant-Garde"
+U0489,50,Women,Paris,"Bohemian,Contemporary"
+U0490,32,Women,Milan,Bohemian
+U0491,39,Men,London,Minimalist
+U0492,33,Women,Los Angeles,"Classic,Bohemian"
+U0493,30,Women,London,"Bohemian,Avant-Garde"
+U0494,31,Men,Hong Kong,Streetwear
+U0495,38,Other,Riyadh,Avant-Garde
+U0496,59,Women,Tokyo,"Avant-Garde,Minimalist"
+U0497,28,Women,Dubai,"Minimalist,Contemporary"
+U0498,34,Women,Hong Kong,"Bohemian,Contemporary"
+U0499,30,Women,Dubai,"Avant-Garde,Classic"
+U0500,48,Men,Dubai,"Avant-Garde,Bohemian"
